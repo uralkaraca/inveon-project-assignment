@@ -1,0 +1,122 @@
+[
+  {
+    "price": "55.99 €",
+    "id": 31515564,
+    "name": "Jupiter Shorts",
+    "category": "Shorts",
+    "gender": "Men",
+    "size": "S",
+    "brand": "Brand Jupiter",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "44,99 €",
+    "id": 315169,
+    "category": "Coats",
+    "gender": "Women",
+    "size": "L",
+    "name": "Jupiter Coats",
+    "brand": "Brand Jupiter",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "65,99 €",
+    "id": 315569,
+    "category": "T-Shirts",
+    "gender": "Men",
+    "size": "XS",
+    "name": "Ganymede T-Shirts",
+    "brand": "Brand Ganymede",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "43,99 €",
+    "id": 515569,
+    "category": "Trousers",
+    "gender": "Men",
+    "size": "XS",
+    "name": "Ganymede Trousers",
+    "brand": "Brand Ganymede",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "39,99 €",
+    "id": 15569,
+    "category": "Coats",
+    "gender": "Women",
+    "size": "XS",
+    "name": "Ganymede Coats",
+    "brand": "Brand Ganymede",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "49,99 €",
+    "id": 31569,
+    "category": "Shorts",
+    "gender": "Women",
+    "size": "S",
+    "name": "Ganymede Shorts",
+    "brand": "Brand Ganymede",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "144,99 €",
+    "id": 315153369,
+    "category": "T-Shirts",
+    "gender": "Men",
+    "size": "M",
+    "name": "Europa T-Shirts",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "74,99 €",
+    "id": 3152315569,
+    "category": "Trousers",
+    "gender": "Men",
+    "size": "S",
+    "name": "Europa Trousers",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "44,99 €",
+    "id": 3112515569,
+    "category": "Coats",
+    "gender": "Men",
+    "size": "L",
+    "name": "Europa Coats",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "99,99 €",
+    "id": 3151558769,
+    "category": "Shirts",
+    "gender": "Women",
+    "size": "S",
+    "name": "Europa Shirts",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "221,99 €",
+    "id": 3151567569,
+    "category": "Coats",
+    "gender": "Men",
+    "size": "M",
+    "name": "Europa Coats",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "price": "221,99 €",
+    "id": 3151545675,
+    "category": "Coats",
+    "gender": "Men",
+    "size": "M",
+    "name": "Europa Coats",
+    "brand": "Brand Europa",
+    "image": "https://picsum.photos/200"
+  }
+]

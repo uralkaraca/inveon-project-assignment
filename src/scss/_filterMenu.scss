@@ -1,0 +1,72 @@
+.filter-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 75%;
+  margin: auto;
+
+
+  @media (max-width: 475px) {
+    width: 100%;
+  }
+
+  .one-filter {
+    cursor: pointer;
+    position: relative;
+    flex: 1;
+    text-align: center;
+    border: 1px solid $inveon-black;
+    margin-right: $space;
+    background: $yellow;
+
+    @media (max-width: 475px) {
+      margin-right: 0;
+    }
+
+    &:hover {
+      .dd-header-title {
+        transform: translateY(-2px);
+      }
+    }
+
+    .dd-header {
+      padding: $space 0;
+
+      &:focus {
+        outline: none;
+      }
+
+      .dd-header-title {
+        color: $inveon-black;
+        transition: .4s;
+      }
+    }
+
+    .dd-list {
+      position: absolute;
+      top: 35px;
+      left: 0;
+      width: 100%;
+      box-sizing: border-box;
+      background: $inveon-black;
+
+      li {
+        transition: .4s;
+        font-size: .8rem;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: $space 0;
+        color: $white-smoke;
+
+        &:hover {
+          background: $yellow;
+          color: $black;
+        }
+
+        .dd-list-item {
+          outline: none;
+        }
+      }
+    }
+  }
+}

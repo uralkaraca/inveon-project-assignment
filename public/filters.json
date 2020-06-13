@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Gender",
+    "id": "123",
+    "values": [
+      {
+        "id": "1",
+        "text": "Women",
+        "type": "gender"
+      },
+      {
+        "id": "2",
+        "text": "Men",
+        "type": "gender"
+      }
+    ]
+  },
+  {
+    "title": "Category",
+    "id": "1234",
+    "values": [
+      {
+        "id": "603",
+        "text": "Shorts",
+        "type": "category"
+      },
+      {
+        "id": "590",
+        "text": "Coats",
+        "type": "category"
+      },
+      {
+        "id": "1182",
+        "text": "Trousers",
+        "type": "category"
+      },
+      {
+        "id": "604",
+        "text": "T-Shirts",
+        "type": "category"
+      }
+    ]
+  },
+  {
+    "title": "Brand",
+    "id": "1235",
+    "values": [
+      {
+        "id": "15508",
+        "text": "Brand Europa",
+        "type": "brand"
+      },
+      {
+        "id": "1",
+        "text":"Brand Jupiter",
+        "type": "brand"
+      },
+      {
+        "id": "3",
+        "text":"Brand Ganymede",
+        "type": "brand"
+      }
+    ]
+  },
+  {
+    "title": "Size",
+    "id": "126",
+    "values": [
+      {
+        "id": "xs",
+        "text": "XS",
+        "type": "size"
+      },
+      {
+        "id": "s",
+        "text": "S",
+        "type": "size"
+      },
+      {
+        "id": "m",
+        "text": "M",
+        "type": "size"
+      },
+      {
+        "id": "l",
+        "text": "L",
+        "type": "size"
+      }
+    ]
+  }
+]
