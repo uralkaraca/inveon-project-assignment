@@ -20,6 +20,7 @@ const Header = (props) => {
 
   const open = Boolean(anchorEl);
   const id = open ? 'simple-popover' : undefined;
+  const isOpen = cart.size ? open : false;
 
   return (
     <header className="header">
@@ -35,7 +36,7 @@ const Header = (props) => {
         </button>
         <Popover
           id={id}
-          open={cart.size && open}
+          open={isOpen}
           anchorEl={anchorEl}
           onClose={handleClose}
           anchorOrigin={{
